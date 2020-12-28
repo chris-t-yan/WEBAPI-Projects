@@ -1,0 +1,9 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\bin\Debug\netcoreapp2.1\Domain_Models.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\bin\Debug\netcoreapp2.1\Domain_Models.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\bin\Debug\netcoreapp2.1\Domain_Models.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\obj\Debug\netcoreapp2.1\Domain_Models.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\obj\Debug\netcoreapp2.1\Domain_Models.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\obj\Debug\netcoreapp2.1\Domain_Models.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\obj\Debug\netcoreapp2.1\Domain_Models.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\obj\Debug\netcoreapp2.1\Domain_Models.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\08_Web API\SEDC Repo MVC\skwd8-09-aspnetwebapi\g1\Class_08\Note_App\Domain_Models\obj\Debug\netcoreapp2.1\Domain_Models.pdb
